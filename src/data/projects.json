@@ -1,0 +1,15 @@
+[
+    {
+      "title": "Media App",
+      "imageSrc": "projects/project.png",
+      "description": "This is a responsive React JS application consisting of video sections, custom categories, channel pages built using Rapid API.",
+      "skills": ["React", "Node", "RapidAPI", "Material UI"]
+    },
+    {
+      "title": "Memories",
+      "imageSrc": "projects/project.png",
+      "description": "This is a full stack MERN Social Media App that has OAuth, pagination, client side routing, comments, like, dislike and more.",
+      "skills": ["React + Redux", "Express", "Node", "Mongodb"]
+      
+    }
+  ]

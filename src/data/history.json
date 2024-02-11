@@ -1,0 +1,20 @@
+[
+    {
+      "role": "IMDS Compliance Engineer",
+      "organisation": "TCS",
+      "project": "General Motors",
+      "startDate": "April, 2021",
+      "endDate": "Aug, 2022",
+      "experiences": ["MDS creation and validation of supplier reports.", "Checking of material data sheets regarding legal and customer-specific requirements.","Good understanding of REACH, RoHS, IMDS, ELV and GADSL substance list."],
+      "imageSrc": "history/TCS.png"
+    },
+    {
+      "role": "Software Developer",
+      "organisation": "TCS",
+      "project":"General Motors",
+      "startDate": "Aug, 2022",
+      "endDate": "Present",
+      "experiences": ["Developed, tested, and implemented web applications using JavaScript.", "Analysed and debugged code to ensure proper operation.", "Designed and created interactive user interfaces."],
+      "imageSrc": "history/TCS.png"
+    }
+  ]
